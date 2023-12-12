@@ -1,1 +1,1 @@
-const chaveApi = "";
+const chaveApi = "e8d086cc94b945f39e9140159231212";
