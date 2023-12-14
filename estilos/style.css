@@ -31,7 +31,7 @@ body{
 .busca>input{
     background-color: #0a1435;
     padding: 10px;
-    border-radius: 15px 0px 15px 0px;
+    border-radius: 15px 0px 0px 15px;
     border: none;
     outline: none;
     color: #ffffff;
@@ -45,7 +45,7 @@ body{
     background-color: #0a1435;
     cursor: pointer;
     border: none;
-    border-radius: 15px;
+    border-radius: 0px 15px 15px 0px;
     padding: 5px 10px;
     opacity: 0.8;
 
